@@ -1,2 +1,2 @@
 # Geek_labs
-task for backend developer for geek labs 
+task for backend developer internship for Geek Labs 
